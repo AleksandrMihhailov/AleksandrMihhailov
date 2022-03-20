@@ -17,7 +17,7 @@ I'm a guy with good leading and learning skills and always goal-oriented. I’m 
 
 <!--![Sasha's github stats](https://github-readme-stats.vercel.app/api?username=SashaMihhailov&show_icons=true&hide_border=true&theme=dark)-->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SashaMihhailov&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=SashaMihhailov&show_icons=true&theme=gruvbox" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SashaMihhailov&theme=dark&hide_border=true" width = 400>
 </p>
 
