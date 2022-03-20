@@ -12,6 +12,10 @@ I'm a guy with good leading and learning skills and always goal-oriented. I’m 
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SashaMihhailov&theme=dark&hide_border=true" width = 400>
 </p>
 
+---
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SashaMihhailov)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **SashaMihhailov/SashaMihhailov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
