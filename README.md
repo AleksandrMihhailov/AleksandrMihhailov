@@ -5,19 +5,11 @@
 
 I'm a guy with good leading and learning skills and always goal-oriented. I’m always looking to work on exciting projects with exciting people. Full of energy, experience, hard work, and enthusiasm.
 
-## <h3 align="left">GitHub Stats</h3>
+## <h3 align="center">GitHub Stats</h3>
+---
 
-<!--
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SashaMihhailov&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaMihhailov&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
--->
-
-<!--![Sasha's github stats](https://github-readme-stats.vercel.app/api?username=SashaMihhailov&show_icons=true&hide_border=true&theme=dark)-->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SashaMihhailov&show_icons=true&theme=gruvbox" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=SashaMihhailov&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=SashaMihhailov&theme=dark&hide_border=true" width = 400>
 </p>
 
