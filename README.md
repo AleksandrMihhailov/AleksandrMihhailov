@@ -5,7 +5,6 @@
 
 I'm a guy with good leading and learning skills and always goal-oriented. I’m always looking to work on exciting projects with exciting people. Full of energy, experience, hard work, and enthusiasm.
 
-## <h3 align="center">GitHub Stats</h3>
 ---
 
 <p align = "center">
