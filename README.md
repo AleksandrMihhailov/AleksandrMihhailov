@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Sasha Mihhailov</h3>
+<h3 align="center">👋 Hi there! I'm Aleksandr Mihhailov</h3>
 <p align="center">Architect | Technology Advisor | Software Engineer | Emerging Technologies | Engineering Lead</p>
 
 ---
